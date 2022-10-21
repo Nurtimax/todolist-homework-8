@@ -79,25 +79,6 @@ const Title = styled.div`
   }
 `;
 
-const ErrorModule = styled.div`
-    &{
-       width: 100%;
-       height: 100vh;
-       background: #00000045;
-       position: fixed;
-       z-index: 10;
-    }
-    & div {
-        position: fixed;
-        top: 30vh;
-        left: 10%;
-        width: 80%;
-        z-index: 20;
-        overflow: hidden;
-        color: white;
-    }
-`
-
 const ErrorCall = styled.div`
   & {
     position: absolute;
