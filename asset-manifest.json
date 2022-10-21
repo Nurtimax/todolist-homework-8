@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/todolist-homework-8/static/css/main.e6c13ad2.css",
-    "main.js": "/todolist-homework-8/static/js/main.cddb2e3e.js",
+    "main.js": "/todolist-homework-8/static/js/main.c8b7e648.js",
     "index.html": "/todolist-homework-8/index.html",
     "main.e6c13ad2.css.map": "/todolist-homework-8/static/css/main.e6c13ad2.css.map",
-    "main.cddb2e3e.js.map": "/todolist-homework-8/static/js/main.cddb2e3e.js.map"
+    "main.c8b7e648.js.map": "/todolist-homework-8/static/js/main.c8b7e648.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cddb2e3e.js"
+    "static/js/main.c8b7e648.js"
   ]
 }
